@@ -39,8 +39,8 @@ npm install @yourmfstartup/simple-interest-calculator
 You can also clone the repository directly:
 
 ```bash
-git clone https://github.com/yourmfstartup/simple-interest-calculator.git
-cd simple-interest-calculator
+git clone https://github.com/RaffIncandenza/github-final-project.git
+cd github-final-project.git
 ```
 
 ## Usage

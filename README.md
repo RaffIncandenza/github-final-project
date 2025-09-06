@@ -40,7 +40,7 @@ You can also clone the repository directly:
 
 ```bash
 git clone https://github.com/RaffIncandenza/github-final-project.git
-cd github-final-project.git
+cd github-final-project
 ```
 
 ## Usage

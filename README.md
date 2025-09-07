@@ -1,3 +1,6 @@
+Follow my linked in:
+[Rafael Santillana](https://www.linkedin.com/in/rafael-j-santillana-leon)
+
 # Simple Interest Calculator
 
 A lightweight, secure, and well-tested library for calculating simple interest. Developed by [Micro-Finance Startup Name], this tool is part of our core mission to empower low-income individuals by providing transparent and accessible financial tools.
